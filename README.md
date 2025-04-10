@@ -13,6 +13,3 @@
 
 > 각 폴더 안의 `.ipynb` 파일을 열어 프로젝트 개요, 데이터 설명, 실험 내용 등을 확인하세요.
 ---
-
-## ✏️ 작성자
-- [@cykim-saihst](https://github.com/cykim-saihst)
